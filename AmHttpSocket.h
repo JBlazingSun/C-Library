@@ -6,8 +6,6 @@
 #include <windows.h>
 #include <wininet.h>
 
-#pragma  comment(lib,"Wininet.lib")
-
 /*
 	custom errorcodes:
 	-1: bad url...
